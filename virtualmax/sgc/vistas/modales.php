@@ -11,7 +11,7 @@
       <div class="modal-body">  
         <p>
 
-          
+           t
         	<label>* <a href="archivos/MQ-SI-INS-001.pdf?v1" target="_blank">Instructivo MQ-SI-INS-001 Wx-Manager</a></label> <br>
         		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="archivos/MQ-SI-FOR-001.xlsx?v2" target="_blank">Formato MQ-SI-FOR-001 Copias Seguridad</a> <br>
         		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- <a href="archivos/MQ-SI-FOR-002.docx?v2" target="_blank">Formato MQ-SI-FOR-002 Novedades Wx-Manager</a> <br>
