@@ -8,10 +8,11 @@
           <th class="text-center">Nombre</th>
           <th class="text-center"> Documento</th>
         </tr>
-      </thead>      
+      </thead> 
+1
       <tbody>
         <tr>
-          <td>1</td>
+          <td>1.</td>
           <td>MQ-MC-PLT-001</td>
           <td class="text-left">Política de Calidad</td>
           <td>
